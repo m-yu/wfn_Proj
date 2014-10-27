@@ -13,7 +13,7 @@ This analysis is applied to understand the hybridization of isolated molecule or
 
 - Analyzation
   - Projected density of states(PDOS) of adsorption system on isolated molecular eigenstates
-    	- \Sum_nk |<\phi^c_nk|\phi^mol_i>|^2 \delta(E-E_nk)
+    	- \Sum_nk | < \phi^c_nk | \phi^mol_i > | ^2 \delta(E-E_nk)
     
 
 Example: J. Phys. Chem. Lett. 4, 1701 (2013). Fig 2
