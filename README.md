@@ -8,8 +8,7 @@ This analysis is applied to understand the hybridization of isolated molecule or
   - The isolated molecule's Hamiltonian is H_mol, with wavefunctions \phi^mol_i.
 	- H_mol \phi^mol_i = E^mol_i \phi^mol_i
   - The combined system Hamiltonian is H_c, with wavefunctions \phi^c_nk.
-  	- H_c \phi^c_nk = E^c_i \phi^c_nk
-
+   	- H_c \phi^c_nk = E^c_i \phi^c_nk
   - We perform analysis on wavefuncitons in the planewave basis extracted from either Paratec or QEspresso simulation.
 
 - Analyzation
